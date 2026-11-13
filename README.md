@@ -20,26 +20,18 @@ This repository contains practical implementations and labs focused on applying 
 - `requirements.txt`: Python dependencies required to run the notebooks.
 
 ## Lab Exercises
-
-### 1. Time Series Analysis & Forecasting
 - **Task 1:** Perform a time series decomposition of a dataset with seasonal and trend components.
-- **Task 2:** Apply time series forecasting methods (ARIMA or Prophet) on historical network traffic data to predict potential DDoS attacks.
-
-### 2. Classification & Ensemble Methods
+- **Task 2:** Using historical network traffic data, apply time series forecasting methods (like ARIMA or Prophet) to predict potential DDoS attacks.
 - **Task 3:** Implement an ensemble learning method (e.g., Random Forest or Gradient Boosting) to classify cyber-attacks.
 - **Task 4:** Build a logistic regression model to classify URLs as either legitimate or malicious.
 - **Task 5:** Apply a Support Vector Machine (SVM) to classify URLs into legitimate and malicious categories.
-- **Task 11:** Develop a decision tree classifier to detect malicious data injections within databases.
-
-### 3. Anomaly Detection & Feature Engineering
-- **Task 6:** Detect abnormal patterns in a set of URLs using feature engineering techniques.
-- **Task 10:** Use k-means clustering to classify network events into normal and abnormal categories.
-- **Task 12:** Develop a model using context (timestamp, source IP, event type) to detect malicious events in wireless sensor networks.
-
-### 4. Text & Pattern Analysis
-- **Task 7:** Build a machine learning model capable of solving CAPTCHA challenges.
-- **Task 8:** Analyze an email dataset to detect patterns of email spoofing.
+- **Task 6:** Using a set of URLs, detect abnormal patterns using feature engineering.
+- **Task 7:** Build a machine learning model to solve CAPTCHA challenges.
+- **Task 8:** Using an email dataset, detect patterns of email spoofing.
 - **Task 9:** Implement a text classification algorithm (e.g., Naive Bayes or SVM) to classify emails as spam or not spam.
+- **Task 10:** Use k-means to classify network events into normal and abnormal categories.
+- **Task 11:** Develop a decision tree classifier to detect malicious data injections within databases.
+- **Task 12:** Develop a model that uses context (e.g., timestamp, source IP, and event type) to detect malicious events within wireless sensor networks.
 
 ## Setup Instructions
 
